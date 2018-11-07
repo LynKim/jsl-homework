@@ -32,7 +32,7 @@
 爆炸
 位置：出现在怪物与子弹触碰的地方
 
-![](images\1111.gif)
+![image](https://github.com/LynKim/jsl-homework/blob/gh-pages/1111.gif )  
 
 
 
