@@ -21,3 +21,24 @@
 ![](lab08.jpg)
 
 
+
+READ 用户选择模式
+REPEAT 
+注水
+UNTILL 水位=注水要求
+REPEAT 
+浸泡
+UNTILL 时间 = 时间要求
+WHILE(电机启动时间>0)
+REPEAT 
+电机转动
+时间-1单位
+ENDWHILE
+WHILE(水位！=0)
+排水
+ENDWHILE
+FOR（脱水时间>0） 
+电机转动
+ENDFOR
+关闭电源
+
